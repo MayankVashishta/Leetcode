@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MayankVashishta/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/MayankVashishta/Leetcode/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
