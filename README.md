@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MayankVashishta/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MayankVashishta/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2048-build-array-from-permutation](https://github.com/MayankVashishta/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MayankVashishta/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -31,5 +32,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/MayankVashishta/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MayankVashishta/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
