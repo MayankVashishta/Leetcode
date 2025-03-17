@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MayankVashishta/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/MayankVashishta/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MayankVashishta/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MayankVashishta/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/MayankVashishta/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
