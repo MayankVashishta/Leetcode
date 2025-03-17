@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/MayankVashishta/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MayankVashishta/Leetcode/tree/master/0191-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MayankVashishta/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2308-divide-array-into-equal-pairs](https://github.com/MayankVashishta/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Array
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/MayankVashishta/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MayankVashishta/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MayankVashishta/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/MayankVashishta/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MayankVashishta/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3582-find-indices-of-stable-mountains](https://github.com/MayankVashishta/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MayankVashishta/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2308-divide-array-into-equal-pairs](https://github.com/MayankVashishta/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## String
 |  |
 | ------- |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MayankVashishta/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2308-divide-array-into-equal-pairs](https://github.com/MayankVashishta/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Linked List
 |  |
 | ------- |
