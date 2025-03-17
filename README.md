@@ -62,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MayankVashishta/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MayankVashishta/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/MayankVashishta/Leetcode/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MayankVashishta/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/MayankVashishta/Leetcode/tree/master/0061-rotate-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MayankVashishta/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Database
 |  |
