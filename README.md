@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MayankVashishta/Leetcode/tree/master/0011-container-with-most-water) |
 | [0074-search-a-2d-matrix](https://github.com/MayankVashishta/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MayankVashishta/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MayankVashishta/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MayankVashishta/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MayankVashishta/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/MayankVashishta/Leetcode/tree/master/0061-rotate-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MayankVashishta/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MayankVashishta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2478-longest-nice-subarray](https://github.com/MayankVashishta/Leetcode/tree/master/2478-longest-nice-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MayankVashishta/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
