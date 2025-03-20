@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MayankVashishta/Leetcode/tree/master/0011-container-with-most-water) |
 | [0074-search-a-2d-matrix](https://github.com/MayankVashishta/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MayankVashishta/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/MayankVashishta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MayankVashishta/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MayankVashishta/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2048-build-array-from-permutation](https://github.com/MayankVashishta/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MayankVashishta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0966-binary-subarrays-with-sum](https://github.com/MayankVashishta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MayankVashishta/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MayankVashishta/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## String
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MayankVashishta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0966-binary-subarrays-with-sum](https://github.com/MayankVashishta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MayankVashishta/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2478-longest-nice-subarray](https://github.com/MayankVashishta/Leetcode/tree/master/2478-longest-nice-subarray) |
 ## Greedy
@@ -119,5 +122,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/MayankVashishta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MayankVashishta/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
