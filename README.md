@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MayankVashishta/Leetcode/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/MayankVashishta/Leetcode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/MayankVashishta/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MayankVashishta/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/MayankVashishta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/MayankVashishta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MayankVashishta/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/MayankVashishta/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
