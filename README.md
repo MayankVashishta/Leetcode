@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MayankVashishta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/MayankVashishta/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MayankVashishta/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MayankVashishta/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Counting
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MayankVashishta/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/MayankVashishta/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MayankVashishta/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/MayankVashishta/Leetcode/tree/master/0061-rotate-list) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/MayankVashishta/Leetcode/tree/master/0039-combination-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/MayankVashishta/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
