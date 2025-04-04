@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/MayankVashishta/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MayankVashishta/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MayankVashishta/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/MayankVashishta/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2048-build-array-from-permutation](https://github.com/MayankVashishta/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MayankVashishta/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MayankVashishta/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MayankVashishta/Leetcode/tree/master/0011-container-with-most-water) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/MayankVashishta/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Stack
 |  |
 | ------- |
